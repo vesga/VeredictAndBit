@@ -1,0 +1,4 @@
+repository "Taller_Animacion2D/My project@4674121475543@cloud"
+  path "/"
+    br "/main"
+    co "/main"
