@@ -32,8 +32,8 @@ El jugador asume el rol de un analista e investigador en un caso de vulneración
 ---
 
 ## 🎬 Video Demostrativo y Descargables
-* 🎥 **Video Explicativo (YouTube/Drive):** [Poner enlace al video de 5-10 min aquí]
-* 📦 **Ejecutable (.exe):** [Poner enlace a Google Drive de la Build aquí]
+* 🎥 **Video Explicativo (YouTube/Drive):** []
+* 📦 **Ejecutable (.exe):** []
 
 ---
 
